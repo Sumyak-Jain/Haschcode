@@ -40,4 +40,3 @@ n = 4
 	
 printknapSack(W, wt, val, n) 
 
-# This code is contributed by Aryan Garg. 
